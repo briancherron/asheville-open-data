@@ -1,3 +1,23 @@
 .leaflet-container {
   height: 600px;
 }
+
+.legend-control {
+  background-color: #FFF;
+  padding: 0 1em;
+  border: 1px solid #333;
+}
+
+.legend-range-list {
+  list-style: none;
+  padding-left: 0;
+  font-size: 1.2em;
+}
+
+.legend-range-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 5px;
+  opacity: 0.5;
+}
