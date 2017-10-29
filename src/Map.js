@@ -10,7 +10,7 @@ const { BaseLayer } = LayersControl
 export default class MapComponent extends Component {
 
   /**
-   * Constructor initializes the momdule.
+   * Constructor initializes the module.
    *
    * @param props the properties
    */
